@@ -1,0 +1,26 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252 LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.5 dismo_1.3-5   raster_3.5-15 sp_1.4-6     
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.7       pillar_1.6.4     compiler_4.1.2   tools_4.1.2      digest_0.6.29   
+ [6] lifecycle_1.0.1  tibble_3.1.6     gtable_0.3.0     nlme_3.1-153     lattice_0.20-45 
+[11] mgcv_1.8-38      pkgconfig_2.0.3  rlang_0.4.12     Matrix_1.3-4     DBI_1.1.1       
+[16] cli_3.1.0        rstudioapi_0.13  terra_1.5-17     withr_2.4.3      dplyr_1.0.7     
+[21] generics_0.1.1   vctrs_0.3.8      grid_4.1.2       tidyselect_1.1.1 glue_1.5.1      
+[26] R6_2.5.1         fansi_0.5.0      farver_2.1.0     purrr_0.3.4      magrittr_2.0.1  
+[31] scales_1.1.1     codetools_0.2-18 ellipsis_0.3.2   splines_4.1.2    assertthat_0.2.1
+[36] colorspace_2.0-2 labeling_0.4.2   utf8_1.2.2       munsell_0.5.0    crayon_1.4.2    
